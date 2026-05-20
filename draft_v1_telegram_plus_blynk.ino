@@ -36,8 +36,8 @@
 // ==========================================================
 
 // Wi-Fi credentials
-const char* WIFI_SSID     = "EURONOLI";
-const char* WIFI_PASSWORD = "T92S7EBNAV";
+const char* WIFI_SSID     = " ";
+const char* WIFI_PASSWORD = " ";
 
 // Telegram bot settings
 const char* BOT_TOKEN = "8614046226:AAEsAmvQRnFleZU1N4yT-a7eduwLvms8pVc";
