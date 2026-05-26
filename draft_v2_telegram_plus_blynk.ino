@@ -31,8 +31,8 @@
 // ==========================================================
 
 // Wi-Fi credentials
-const char* WIFI_SSID     = "Vodafone_190785";
-const char* WIFI_PASSWORD = "11111111";
+const char* WIFI_SSID     = " ";
+const char* WIFI_PASSWORD = " ";
 
 // Telegram bot settings
 const char* BOT_TOKEN    = "8614046226:AAEsAmvQRnFleZU1N4yT-a7eduwLvms8pVc";
